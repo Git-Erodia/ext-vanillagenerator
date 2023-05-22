@@ -536,4 +536,8 @@
 #define WOOL MinecraftBlock(35, 0)
 #define YELLOW_GLAZED_TERRACOTTA MinecraftBlock(224, 2)
 
+#define ZIRCON_ORE MinecraftBlock(1014, 0)
+#define RANDOM_ORE MinecraftBlock(1012, 0)
+#define JADE_RENFORCER_ORE MinecraftBlock(1011, 0)
+
 #endif // EXT_VANILLAGENERATOR_LIB_POCKETMINE_BLOCKLIST_H_
