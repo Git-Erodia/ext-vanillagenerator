@@ -13,8 +13,8 @@ OrePopulator::OrePopulator() {
   AddOre(OreType{REDSTONE_ORE, 0, 16, 7, 8});
   AddOre(OreType{DIAMOND_ORE, 0, 16, 7, 1});
   AddOre(OreType{LAPIS_LAZULI_ORE, 16, 16, 6, 1});
-  AddOre(OreType{RANDOM_ORE, 0, 16, 7, 1});
-  AddOre(OreType{ZIRCON_ORE, 0, 16, 7, 3});
+  //AddOre(OreType{RANDOM_ORE, 0, 16, 7, 1});
+  //AddOre(OreType{ZIRCON_ORE, 0, 16, 7, 3});
 }
 
 void OrePopulator::Populate(ChunkManager &world, Random &random, int_fast32_t chunkX, int_fast32_t chunkZ) {
